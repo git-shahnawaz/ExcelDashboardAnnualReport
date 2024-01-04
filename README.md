@@ -26,5 +26,9 @@ Which channel is contributing to maximum sales?
 
 Highest selling category?, etc.
 
+###Before Above Analysis
+#####we got sales sheet from super store manager
+In sheet there is row data so that we clean and processes the data and add some column for analysis
+
 
 
